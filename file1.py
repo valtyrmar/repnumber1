@@ -6,3 +6,4 @@ print('maks is not funny')
 
 
 print("let's try this")
+virkar þetta
