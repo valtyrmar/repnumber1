@@ -3,3 +3,6 @@ print("Han is a genius")
 #Sprenging hefur orðið á notkun þyngdarstjórnunarlyfja, líkt og 
 
 print('maks is not funny')
+
+
+print("let's try this")
