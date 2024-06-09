@@ -9,3 +9,6 @@ print("let's try this")
 virkar þetta
 
 helloooo
+
+
+print("Hello, World!")
