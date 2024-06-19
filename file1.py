@@ -1,6 +1,0 @@
-
-hello
-
-
-
-Walter is  gay
